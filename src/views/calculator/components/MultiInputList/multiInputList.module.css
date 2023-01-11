@@ -1,0 +1,20 @@
+.wrapper {
+    margin-top: 10px;
+}
+
+.itemWrapper {
+    margin-bottom: 10px;
+}
+
+.label {
+    margin-bottom: 5px;
+}
+
+.inputRow {
+    display: flex;
+}
+
+.inputRow>.inputWrapper {
+    flex: 1;
+    margin-right: 5px;
+}

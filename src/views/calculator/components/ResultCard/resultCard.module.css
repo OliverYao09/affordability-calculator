@@ -1,0 +1,15 @@
+.wrapper {
+    background: #eee;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.wrapper>div {
+    margin-bottom: 20px;
+}
+
+.resultTitle {
+    font-weight: 500;
+    margin-bottom: 4px;
+}

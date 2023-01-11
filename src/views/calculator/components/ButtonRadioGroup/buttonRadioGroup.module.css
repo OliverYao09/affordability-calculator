@@ -1,0 +1,9 @@
+.radioWrapper {
+    display: flex;
+    width: 100%;
+}
+
+.radioItem {
+    flex: 1;
+    text-align: center;
+}

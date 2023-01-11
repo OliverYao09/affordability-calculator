@@ -1,0 +1,19 @@
+.wrapper {
+    width: 1000px;
+    padding: 20px;
+}
+
+.wrapper .formBox,
+.wrapper .resultBox {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.formBox {
+    background: rgb(238, 236, 236);
+}
+
+.resultBox {
+    background: #eee;
+    margin-left: 20px;
+}
